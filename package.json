@@ -1,0 +1,24 @@
+{
+  "name": "Dynamic-responsive-Website",
+  "version": "1.0.0",
+  "description": "It is a dynamic and responsive website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surajnanda334/Dynamic-responsive-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Surajnanda334/Dynamic-responsive-Website/issues"
+  },
+  "homepage": "https://github.com/Surajnanda334/Dynamic-responsive-Website#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7"
+  }
+}
